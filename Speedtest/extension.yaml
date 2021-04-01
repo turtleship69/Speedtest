@@ -1,0 +1,9 @@
+Id: AnExtensionLike3PeopleAreGoingToUse
+Name: Speedtest
+Author: turtleship69
+Version: 0.1
+Module: Speedtest.ps1
+Type: Script
+Functions: 
+    - Description: Run speedtest
+      FunctionName: Speedtest
