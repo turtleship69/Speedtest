@@ -1,9 +1,14 @@
 Id: AnExtensionLike3PeopleAreGoingToUse
 Name: Speedtest
 Author: turtleship69
-Version: 0.1
+Version: 1.0
 Module: Speedtest.ps1
 Type: Script
 Functions: 
     - Description: Run speedtest
       FunctionName: Speedtest
+Links:
+  - Name: Plugin forum
+    Url: https://playnite.link/forum/thread-632.html
+  - Name: Plugin Github
+    Url: https://github.com/turtleship69/Speedtest
