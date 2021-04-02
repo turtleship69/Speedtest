@@ -1,6 +1,6 @@
 function global:Speedtest()
 {
-    speedtest.exe
+    Start-Process "speedtest.exe"
     pause
 }
 
